@@ -1,0 +1,32 @@
+.text {
+    color: orange;
+    font-family: monospace;
+    font-size: xx-large;
+}
+
+.cislatext {
+    color: white;
+}
+
+.hore {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+    font-size: larger;
+    background-color: aqua;
+}
+
+.stred {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+    font-size: larger;
+    background-color: coral;
+}
+
+.dole {
+    padding-top: 150px;
+    padding-bottom: 150px;
+    text-align: center;
+    background-color: goldenrod;
+}
